@@ -13,5 +13,6 @@ public class One {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         System.out.println("uu");
+        System.out.println("1232443");
     }
 }
